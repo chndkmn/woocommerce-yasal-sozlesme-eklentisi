@@ -1,0 +1,1 @@
+# WooCommerce Yasal Sözleşme Eklentisi
